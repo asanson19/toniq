@@ -1,0 +1,19 @@
+dicom-series:
+  first-scan: Series3
+  last-scan: Series18
+  structured-metal: Series6
+  structured-plastic: Series3
+  structured-plastic-reference: Series2
+  uniform-metal: Series17
+  uniform-metal-2: Series18
+  uniform-plastic: Series11
+  uniform-plastic-2: Series12
+root: ../../scans/240304
+slice:
+- - 70
+  - 190
+- - 90
+  - 210
+- - 7
+  - 18
+

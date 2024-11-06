@@ -1,0 +1,10 @@
+root: '../../scans/240304'
+slice: [[70, 190], [90, 210], [7, 18]]
+dicom-series:
+  structured-plastic-reference: 'Series2a'
+  structured-plastic: 'Series5a'
+  structured-metal: 'Series8a'
+  uniform-plastic: 'Series15a'
+  uniform-plastic-2: 'Series16_a'
+  uniform-metal: 'Series21a'
+  uniform-metal-2: 'Series22a'
